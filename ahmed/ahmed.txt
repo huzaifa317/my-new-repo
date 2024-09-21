@@ -1,0 +1,16 @@
+uppercase
+lowercase
+casefold
+capitalize
+title
+is
+count
+find
+rfind
+center
+strip
+split
+join
+reversed
+replace
+sorted
